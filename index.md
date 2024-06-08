@@ -14,3 +14,8 @@ Adding coding example
 ``` javascript
 var myVar = "hello, world!";
 ```
+
+Adding check boxex
+- [x] snacks
+- [ ] drinks
+- [x] things
