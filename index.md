@@ -8,3 +8,9 @@ I've added headers to the file to show sizes
 
 Adding an Image
 ![This is descriptive text](https://octodex.github.com/images/yaktocat.png)
+
+
+Adding coding example
+``` javascript
+var myVar = "hello, world!";
+```
